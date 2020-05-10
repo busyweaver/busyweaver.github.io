@@ -2,6 +2,7 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
-    "BGN19"))
+    "BGN19"
+    "BGNS20"))
  :bibtex)
 
