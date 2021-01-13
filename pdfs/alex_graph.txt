@@ -1,0 +1,3 @@
+We'll have a quick and no-frills introduction to how one might approach the problem of enumerating certain families of graphs, focusing on a simple yet powerful framework of enumeration for trees and tree-like graph families. Such families of graphs are frequently encountered in computer science and mathematics, and include various kinds of trees, cactuses, and more generally, biconnected graphs with a-priori known component structure.
+
+The presented framework, based on elementary species-theoretic considerations, will allow us to enumerate various interesting tree-like graph families up to isomorphism (a not too shabby achievement!). To keep with the holiday spirit, we'll even get to enumerate some decorated trees using SageMath!

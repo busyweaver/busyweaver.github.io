@@ -1,0 +1,31 @@
+The concept of total dual integrality dates back to the works of
+Edmonds, Giles and Pulleyblank in the late 70's, and is strongly
+connected to min-max relations in combinatorial optimization.
+In this work we show a characterization of series-parallel graphs in
+terms of box-total dual integrality of the k-edge-connected spanning
+subgraph polyhedron.
+
+The system ${A}x\ge b$ is totally dual integral (TDI) if, for each
+integer vector c for which $\min \{c x:Ax\ge b\}$ is finite, there
+exists an integer optimal solution of $\max \{yb:yA = c,\, y \ge0\}$
+such that:
+$$\min \{c x:Ax\ge b\} = \max \{yb:yA=c, \,y \ge0\}.$$
+It is known that every integer polyhedron can be described by a TDI
+system $Ax\ge b$ with $A$ and $b$ integer. The integrality of the TDI
+system is desirable because, then we have a min-max relation between
+combinatorial objects.
+
+We are interested in the stronger property of box-TDIness. A system $
+A x\ge  b$ is called box-TDI if the system $Ax\ge b, \ell\le x \le u$
+is TDI for all rational vectors $\ell$ and $u$.
+A polyhedron that can be described by box-TDI system is called a
+box-TDI polyhedron.
+This definition is motivated by the fact that any TDI system
+describing a box-TDI polyhedron is box-TDI.
+The past few years, this property has received a renewed interest and
+several new box-TDI systems were discovered.
+
+We prove that, for $k\ge2$, the k-edge-connected spanning subgraph
+polyhedron is a box-TDI polyhedron if and only if the graph is
+series-parallel. Moreover, in this case, we provide a box-TDI system
+with integer coefficients describing this polyhedron.

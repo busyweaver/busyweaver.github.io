@@ -1,0 +1,12 @@
+A fundamental step towards artificial intelligence is to provide
+learning processes with the ability to constantly adapt to
+continuously evolving environments and to deal with the
+ever-increasing quantity of data that these environments generate.
+This is the case in sensor-rich environments that characterize the
+Internet of Things applications such as human activity recognition
+(HAR). In this contribution, we propose to improve HAR systems with
+domain knowledge composition. Three models encoding different domain
+knowledge are used: (1) a model of the influence of data sources on
+human activities, (2) a model of the interactions between data
+sources, and (3) a model of the transitions between human activities.
+

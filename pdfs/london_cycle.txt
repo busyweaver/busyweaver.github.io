@@ -1,0 +1,21 @@
+The London Cycle Hire Scheme (LCHS), managed by Serco Group Plc, is one
+of the largest bike sharing schemes in the world, with 815 stations and
+over 13,000 bikes. Due to the size and utilisation rate of the system,
+Serco faces a major challenge in ensuring adequate supply of bikes at
+all locations at all times. Furthermore, the Transport for London (TfL),
+which oversees the LCHS, has very strict service commitments, KPI
+targets and associated financial penalties. To optimize the mamagement
+of such a large scheme, DecisionBrain designed and provided a decision
+support tool called the Distribution Planning Optimization (DPO) System.
+DPO operates 24hours a day and tackles several complex problems:
+forecasting the demand for bikes and docking points, finding the best
+inventory levels for all stations at any given time so that demand is
+satisfied, building a schedule for Serco operators that are employed in
+bike redistribution in order to reach the said best inventory levels at
+stations and finally building a schedule for operators in charge of
+repairs and maintenance. In this talk, we will illustrate how the
+aforementioned problems have been tackled and the solving algorithms
+that have been developed. Thanks to DPO, Serco is now able to
+consistently meet the service levels required by TfL and has improved
+the overall quality and availability of the service, as reported by both
+the Serco LCHS Operations team and actual LCHS utilisation data.
