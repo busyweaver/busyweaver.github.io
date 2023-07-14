@@ -2,9 +2,13 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "naimapp23"
+    "naimabetdisshor"
     "BGN19"
-    "BGNS20"
-    "bodini2020strict"
-    "bodini2020compaction"))
- :bibtex)
+    "bodini2020families"
+    "bodini2022strict"
+    "bodini2022compaction"
+    "bodini2022combinatorial"
+    "naima:tel-03160040"))
+ '(or :bibtex :latex))
 
