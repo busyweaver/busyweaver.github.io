@@ -2,6 +2,7 @@
  "biblio"
  (lambda ()
    (LaTeX-add-bibitems
+    "baril2023lattice"
     "naimapp23"
     "naimabetdisshor"
     "BGN19"
